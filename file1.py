@@ -1,4 +1,3 @@
-## Pyhton CODE
 L=[]
 n=int(input("Enter Limit:"))
 
